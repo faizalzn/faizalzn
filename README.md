@@ -13,7 +13,7 @@
 
 <hr/>
 
-<!-- LENCANA STATUS (Sama Persis Seperti Referensi Gambar) -->
+<!-- LENCANA STATUS -->
 <div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20WEB%20DEV-FF0000?style=for-the-badge&labelColor=101010" alt="Focus" />
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LIVES-INDONESIA-FF0000?style=for-the-badge&labelColor=101010" alt="Lives" />
   </p>
   
-  <!-- LENCANA SOSIAL (Tombol Hitam) -->
+  <!-- LENCANA SOSIAL -->
   <p align="center">
     <a href="https://github.com/faizalzn">
       <img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -74,11 +74,11 @@
 
 <hr/>
 
-<!-- GITHUB STREAK STATS (TEMA MERAH-HITAM) -->
+<!-- GITHUB STREAK STATS -->
 <div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=radical&hide_border=false" alt="Faiz's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=faizalzn&theme=radical&hide_border=false" alt="Faiz's GitHub Streak" />
 </div>
 
 <hr/>
