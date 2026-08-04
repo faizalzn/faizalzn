@@ -1,17 +1,5 @@
 <!-- HEADER & CYBERPUNK BATTLE -->
 <!-- HEADER GITHUB STATS -->
-### 📊 GitHub Stats
-
----
-
-<div align="center">
-  <!-- KARTU STATS DASAR -->
-  <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br>
-  <br> <!-- Spasi vertikal antar kartu -->
-  <!-- KARTU STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="Streak" />
-</div>
 
 ---
 <div align="center">
@@ -81,6 +69,19 @@
 
 <!-- STATISTIK GITHUB (PERBAIKAN TATA LETAK) -->
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
+
+---
+
+<div align="center">
+  <!-- KARTU STATS DASAR -->
+  <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br>
+  <br> <!-- Spasi vertikal antar kartu -->
+  <!-- KARTU STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="Streak" />
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=radical" alt="Statistik Dasar GitHub Faiz" />
