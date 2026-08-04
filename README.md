@@ -19,7 +19,7 @@
 - 🔭 I’m currently focused on **Cybersecurity (Penetration Testing, OSINT)** and **Web Development**.
 - 🕸️ Exploring **Bash Scripting**, **Anaconda Python Environments**, and various security tools.
 - ♟️ When I'm not coding, you can find me playing chess, analyzing markets, or writing.
-- 📫 How to reach me: <a href="mailto:faiz@goonesmile.com">faiz@goonesmile.com</a> 
+- 📫 How to reach me: <a href="mailto:faizalzain845@gmail.com">Here</a> 
 - ☁️ Pronouns: He/Him.
 - 🎲 Fun fact: Drawing, writing, and traveling are part of me.
 
