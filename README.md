@@ -1,49 +1,47 @@
-<!-- ======================================================== -->
-<!-- HEADER BANNER & ANIMATED TYPING TITLE                     -->
-<!-- ======================================================== -->
+<!-- HEADER & CYBERPUNK BATTLE ANIMATION -->
+---
 <div align="center">
-  <!-- Banner Pertarungan Cyberpunk Ninja -->
-  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Cyberpunk Ninja Battle Animation" />
+  <!-- Banner Animasi Pertarungan Ninja Siber -->
+  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Cyberpunk Ninja Duel Animation" />
 
-  <br/><br/>
-
-  <!-- Header Teks Mengetik Otomatis -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Faiz+👋;Cybersecurity+Enthusiast;Web+Developer+%26+OSINT;Lifelong+Learner" alt="Typing Header" />
-  </h1>
-
-  <p align="center">
-    <b>Cybersecurity Analyst | Web Developer | Network Security | IT Education @ UNESA</b>
-  </p>
-
-  <!-- Visitor Counter Badge -->
+  <h1>Hi there 👋, I'm Faiz!</h1>
+  <h3>Cybersecurity Enthusiast | Web Developer | Lifelong Learner</h3>
+  <p>Studying IT Education at UNESA and exploring the depths of the digital world.</p>
+  
   <p align="center">
     <a href="https://github.com/faizalzn">
-      <img src="https://komarev.com/ghpvc/?username=faizalzn&label=SYSTEM%20ACCESS%20VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-    </a>
+      <img src="https://komarev.com/ghpvc/?username=faizalzn&label=Profile%20views&color=0e75b6&style=flat-square" alt="Tampilan Profil" />
+     </a>
   </p>
 </div>
 
-<br/>
+---
 
-<!-- ======================================================== -->
-<!-- TERMINAL STYLE SYSTEM LOG                                -->
-<!-- ======================================================== -->
-```bash
-  ___   _   _  ___  ____  ____  _____ ____ _   _ ____  ___ _____ __   __
- / ___| \ \ / /| __ )|  _ \|  _ \| ____/ ___| | | |  _ \|_ _|_   _|\ \ / /
-| |      \ V / |  _ \| |_) | |_) |  _| \___ \ | | | |_) || |  | |   \ V / 
-| |___    | |  | |_| |  _ <|  _ <| |___ ___) || |_| |  _ < | |  | |    | |  
- \____|   |_|  |____/|_| \_\|_| \_\_____|____/  \___/|_| \_\___| |_|    |_|  
+<!-- ABOUT ME -->
+### 🚀 About Me
 
- [SYSTEM LOG: ACCESS GRANTED]
- -----------------------------------------------------------------------
- USERNAME    : faizalzn (Muhammad Faizal Zain)
- ROLE        : Cybersecurity Analyst & Web Developer
- ALMA MATER  : IT Education - Universitas Negeri Surabaya (UNESA)
- STATUS      : Active / Pentesting & Building Full-Stack Systems
- LOCATION    : Indonesia 🇮🇩
- -----------------------------------------------------------------------
+- 🔭 I’m currently focused on **Cybersecurity (Penetration Testing, OSINT)** and **Web Development**.
+- 🕸️ Exploring **Bash Scripting**, **Anaconda Python Environments**, and security tools.
+- ♟️ When I'm not coding, you can find me playing chess, analyzing markets, or writing.
+- 📫 How to reach me: <a href="mailto:faiz@goonesmile.com">faiz@goonesmile.com</a> 
+- ☁️ Pronouns: He/Him.
+- 🎲 Drawing, writing, and traveling are part of me.
+
+---
+
+<!-- GITHUB SNAKE -->
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- CONNECT LINKS -->
 ### 🤝 Let's Connect!
 <p align="left">
   <a href="https://twitter.com/zenjoee">
