@@ -1,91 +1,49 @@
-<!-- HEADER & CYBERPUNK BATTLE ANIMATION -->
----
+<!-- ======================================================== -->
+<!-- HEADER BANNER & ANIMATED TYPING TITLE                     -->
+<!-- ======================================================== -->
 <div align="center">
-  <!-- Banner Animasi Pertarungan Ninja Siber -->
-  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Cyberpunk Ninja Duel Animation" />
+  <!-- Banner Pertarungan Cyberpunk Ninja -->
+  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Cyberpunk Ninja Battle Animation" />
 
-  <h1>Hi there 👋, I'm Faiz!</h1>
-  <h3>Cybersecurity Enthusiast | Web Developer | Lifelong Learner</h3>
-  <p>Studying IT Education at UNESA and exploring the depths of the digital world.</p>
-  
+  <br/><br/>
+
+  <!-- Header Teks Mengetik Otomatis -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Faiz+👋;Cybersecurity+Enthusiast;Web+Developer+%26+OSINT;Lifelong+Learner" alt="Typing Header" />
+  </h1>
+
+  <p align="center">
+    <b>Cybersecurity Analyst | Web Developer | Network Security | IT Education @ UNESA</b>
+  </p>
+
+  <!-- Visitor Counter Badge -->
   <p align="center">
     <a href="https://github.com/faizalzn">
-      <img src="https://komarev.com/ghpvc/?username=faizalzn&label=Profile%20views&color=0e75b6&style=flat-square" alt="Tampilan Profil" />
-     </a>
+      <img src="https://komarev.com/ghpvc/?username=faizalzn&label=SYSTEM%20ACCESS%20VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+    </a>
   </p>
 </div>
 
----
+<br/>
 
-<!-- ABOUT ME -->
-### 🚀 About Me
+<!-- ======================================================== -->
+<!-- TERMINAL STYLE SYSTEM LOG                                -->
+<!-- ======================================================== -->
+```bash
+  ___   _   _  ___  ____  ____  _____ ____ _   _ ____  ___ _____ __   __
+ / ___| \ \ / /| __ )|  _ \|  _ \| ____/ ___| | | |  _ \|_ _|_   _|\ \ / /
+| |      \ V / |  _ \| |_) | |_) |  _| \___ \ | | | |_) || |  | |   \ V / 
+| |___    | |  | |_| |  _ <|  _ <| |___ ___) || |_| |  _ < | |  | |    | |  
+ \____|   |_|  |____/|_| \_\|_| \_\_____|____/  \___/|_| \_\___| |_|    |_|  
 
-- 🔭 I’m currently focused on **Cybersecurity (Penetration Testing, OSINT)** and **Web Development**.
-- 🕸️ Exploring **Bash Scripting**, **Anaconda Python Environments**, and security tools.
-- ♟️ When I'm not coding, you can find me playing chess, analyzing markets, or writing.
-- 📫 How to reach me: <a href="mailto:faiz@goonesmile.com">faiz@goonesmile.com</a> 
-- ☁️ Pronouns: He/Him.
-- 🎲 Drawing, writing, and traveling are part of me.
-
----
-
-<!-- TECH STACK & TOOLS -->
-### 💻 Tech Stack & Tools
-
-#### 🛡️ Cyber Security & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
-
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-<!-- GITHUB SNAKE -->
-### 🐍 My GitHub Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<!-- STATISTIK GITHUB (PERBAIKAN TATA LETAK) -->
-### 📊 GitHub Stats
-
----
-
-<div align="center">
-  <!-- Baris Pertama: Kartu Stats Dasar & Streak (Tema Tokyonight) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Statistik Dasar GitHub Faiz" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="GitHub Streak Faiz" />
-  </p>
-  
-  <!-- Baris Kedua: Kartu Bahasa Teratas (Tema Tokyonight) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalzn&layout=compact&theme=tokyonight" alt="Bahasa Teratas Faiz" />
-  </p>
-</div>
-
----
-
-<!-- CONNECT LINKS -->
+ [SYSTEM LOG: ACCESS GRANTED]
+ -----------------------------------------------------------------------
+ USERNAME    : faizalzn (Muhammad Faizal Zain)
+ ROLE        : Cybersecurity Analyst & Web Developer
+ ALMA MATER  : IT Education - Universitas Negeri Surabaya (UNESA)
+ STATUS      : Active / Pentesting & Building Full-Stack Systems
+ LOCATION    : Indonesia 🇮🇩
+ -----------------------------------------------------------------------
 ### 🤝 Let's Connect!
 <p align="left">
   <a href="https://twitter.com/zenjoee">
