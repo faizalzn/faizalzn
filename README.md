@@ -1,4 +1,19 @@
 <!-- HEADER & CYBERPUNK BATTLE -->
+<!-- HEADER GITHUB STATS -->
+### 📊 GitHub Stats
+
+---
+
+<div align="center">
+  <!-- KARTU STATS DASAR -->
+  <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br>
+  <br> <!-- Spasi vertikal antar kartu -->
+  <!-- KARTU STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="Streak" />
+</div>
+
+---
 <div align="center">
   <!-- Banner Animasi Pertarungan Ninja Hewan -->
   <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Pertarungan Ninja Siber Hewan" />
