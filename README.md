@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Banner Ninja Kucing vs Panda -->
-  <img src="https://i.ibb.co/wS1641D/animal-ninja-battle.png" width="100%" alt="Animal Ninja Battle"/>
+  <!-- Dynamic Cyberpunk Ninja Animal Battle Animation -->
+  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Dynamic Cyberpunk Ninja Animal Battle Animation"/>
 
   <h1>Hi there 👋, I'm Faiz!</h1>
   <h3>Cybersecurity Enthusiast | Web Developer | Lifelong Learner</h3>
-  <p>Currently studying IT Education at UNESA and exploring the digital world.</p>
+  <p>Studying IT Education at UNESA and exploring the digital world.</p>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -34,17 +34,23 @@
 
 #### Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-### 🐍 My GitHub Contributions
+#### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🐍 My GitHub Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goonesmile/goonesmile/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goonesmile/goonesmile/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goonesmile/goonesmile/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goonesmile/goonesmile/output/github-contribution-grid-snake.svg">
 </div>
 
 ### 🤝 Let's Connect!
