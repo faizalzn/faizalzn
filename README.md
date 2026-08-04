@@ -1,12 +1,12 @@
-<!-- HEADER & CYBERPUNK BATTLE -->
+<!-- HEADER & CYBERPUNK BATTLE ANIMATION -->
 ---
 <div align="center">
-  <!-- Banner Animasi Pertarungan Ninja Hewan -->
-  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Pertarungan Ninja Siber Hewan" />
+  <!-- Banner Animasi Pertarungan Ninja Siber (Bekerja & Andal) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5&rid=giphy.gif" width="100%" alt="Cyberpunk Ninja Duel Animation" />
 
   <h1>Hi there 👋, I'm Faiz!</h1>
   <h3>Cybersecurity Enthusiast | Web Developer | Lifelong Learner</h3>
-  <p>Studying IT Education at UNESA and exploring the digital world.</p>
+  <p>Studying IT Education at UNESA and exploring the depths of the digital world.</p>
   
   <p align="center">
     <a href="https://github.com/faizalzn">
@@ -53,7 +53,7 @@
 
 ---
 
-<!-- GITHUB SNAKE -->
+<!-- GITHUB SNAKE SECTION (Centered) -->
 ### 🐍 My GitHub Contribution Snake
 <div align="center">
   <picture>
@@ -65,18 +65,20 @@
 
 ---
 
-<!-- STATISTIK GITHUB (PERBAIKAN TATA LETAK) -->
+<!-- STATISTIK GITHUB (BERSIH & TERPANDARISASI KEMBALI) -->
 ### 📊 GitHub Stats
 
----
-
 <div align="center">
-  <!-- Kartu Stats Dasar (tokyonight) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Statistik Dasar GitHub Faiz" />
-  <br>
-  <br> <!-- Spasi vertikal antar kartu -->
-  <!-- Kartu Streak Stats (tokyonight) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="GitHub Streak Faiz" />
+  <!-- Baris Pertama: Statistik Dasar & Streak (Tema Tokyonight yang Sama) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Statistik Dasar GitHub Faiz" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="GitHub Streak Faiz" />
+  </p>
+  
+  <!-- Baris Kedua: Bahasa Teratas (Tema Tokyonight yang Sama) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalzn&layout=compact&theme=tokyonight" alt="Bahasa Teratas Faiz" />
+  </p>
 </div>
 
 ---
