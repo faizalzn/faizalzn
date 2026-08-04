@@ -1,8 +1,8 @@
 <!-- HEADER & CYBERPUNK BATTLE ANIMATION -->
 ---
 <div align="center">
-  <!-- Banner Animasi Pertarungan Ninja Siber (Bekerja & Andal) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5&rid=giphy.gif" width="100%" alt="Cyberpunk Ninja Duel Animation" />
+  <!-- Banner Animasi Pertarungan Ninja Siber -->
+  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Cyberpunk Ninja Duel Animation" />
 
   <h1>Hi there 👋, I'm Faiz!</h1>
   <h3>Cybersecurity Enthusiast | Web Developer | Lifelong Learner</h3>
@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://github.com/faizalzn">
       <img src="https://komarev.com/ghpvc/?username=faizalzn&label=Profile%20views&color=0e75b6&style=flat-square" alt="Tampilan Profil" />
-    </a>
+     </a>
   </p>
 </div>
 
@@ -53,7 +53,7 @@
 
 ---
 
-<!-- GITHUB SNAKE SECTION (Centered) -->
+<!-- GITHUB SNAKE -->
 ### 🐍 My GitHub Contribution Snake
 <div align="center">
   <picture>
@@ -65,17 +65,19 @@
 
 ---
 
-<!-- STATISTIK GITHUB (BERSIH & TERPANDARISASI KEMBALI) -->
+<!-- STATISTIK GITHUB (PERBAIKAN TATA LETAK) -->
 ### 📊 GitHub Stats
 
+---
+
 <div align="center">
-  <!-- Baris Pertama: Statistik Dasar & Streak (Tema Tokyonight yang Sama) -->
+  <!-- Baris Pertama: Kartu Stats Dasar & Streak (Tema Tokyonight) -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight" alt="Statistik Dasar GitHub Faiz" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalzn&theme=tokyonight" alt="GitHub Streak Faiz" />
   </p>
   
-  <!-- Baris Kedua: Bahasa Teratas (Tema Tokyonight yang Sama) -->
+  <!-- Baris Kedua: Kartu Bahasa Teratas (Tema Tokyonight) -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalzn&layout=compact&theme=tokyonight" alt="Bahasa Teratas Faiz" />
   </p>
