@@ -1,48 +1,50 @@
-<!-- HEADER BANNER ANIMASI BERGERAK -->
+<!-- 1. BANNER ANIMASI BERGERAK (HEADER) -->
 <div align="center">
-  <!-- Banner Animasi Pertarungan Cyber / Ninja -->
-  <img src="https://i.ibb.co/wS1641D/cyberpunk-ninja-duel.gif" width="100%" alt="Faiz Cyberpunk Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5&rid=giphy.gif" width="100%" alt="Faiz Banner Animation" />
 
   <br/><br/>
 
-  <!-- Animasi Teks Mengetik Otomatis (Merah & Putih) -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;OSINT+%26+Network+Security" alt="Typing Title" />
-  </p>
-</div>
-
-<hr/>
-
-<!-- LENCANA STATUS -->
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20WEB%20DEV-FF0000?style=for-the-badge&labelColor=101010" alt="Focus" />
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-FF0000?style=for-the-badge&labelColor=101010" alt="Status" />
-    <img src="https://img.shields.io/badge/LIVES-INDONESIA-FF0000?style=for-the-badge&labelColor=101010" alt="Lives" />
-  </p>
+  <!-- JUDUL MERAH PERSIS SEPERTI REFERENSI NIAMSKY -->
+  <h1 align="center">
+    <font color="#FF0000">Cybersecurity & Web Developer 💻</font>
+  </h1>
   
-  <!-- LENCANA SOSIAL -->
   <p align="center">
-    <a href="https://github.com/faizalzn">
-      <img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://twitter.com/zenjoee">
-      <img src="https://img.shields.io/badge/TWITTER-101010?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://www.instagram.com/faizalzen_/">
-      <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:faiz@goonesmile.com">
-      <img src="https://img.shields.io/badge/EMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <b>Muhammad Faizal Zain (Faiz)</b> • IT Education @ UNESA
   </p>
+</div>
+
+<br/>
+
+<!-- 2. LENCANA STATUS (GAYA MERAH-HITAM) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20WEB%20DEV-FF0000?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-FF0000?style=for-the-badge&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/LIVES-INDONESIA-FF0000?style=for-the-badge&labelColor=000000" alt="Lives" />
+</div>
+
+<br/>
+
+<!-- 3. LENCANA SOSIAL (TOMBOL HITAM) -->
+<div align="center">
+  <a href="https://github.com/faizalzn">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/zenjoee">
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/faizalzen_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:faiz@goonesmile.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <hr/>
 
-<!-- TENTANG SAYA -->
+<!-- 4. TENTANG SAYA -->
 ### 🚀 About Me
-
 - 🔭 I’m currently focused on **Cybersecurity (Penetration Testing, OSINT)** and **Web Development**.
 - 🕸️ Exploring **Bash Scripting**, **Anaconda Python Environments**, and security tools.
 - 🎓 Studying IT Education at **UNESA**.
@@ -51,7 +53,7 @@
 
 <hr/>
 
-<!-- TECH STACK -->
+<!-- 5. TECH STACK & TOOLS -->
 ### 💻 Tech Stack & Tools
 
 #### 🛡️ Cyber Security & Scripting
@@ -74,7 +76,7 @@
 
 <hr/>
 
-<!-- GITHUB STREAK STATS -->
+<!-- 6. GITHUB STREAK STATS -->
 <div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
   <br/>
@@ -83,13 +85,9 @@
 
 <hr/>
 
-<!-- ANIMASI ULAR KONTRIBUSI (GITHUB SNAKE) -->
+<!-- 7. GITHUB CONTRIBUTION SNAKE -->
 <div align="center">
   <h3>🐍 GitHub Contribution Snake</h3>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
