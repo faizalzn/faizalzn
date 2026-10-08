@@ -30,9 +30,7 @@
   <a href="https://github.com/faizalzn">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/zenjoee">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+
   <a href="https://www.instagram.com/faizalzen_/">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
