@@ -1,12 +1,15 @@
 <!-- Ganti semua placeholder: USERNAME, Nama Kamu, link sosial media, dan nama repo -->
 
+<!-- BANNER: untuk hasil yang sama persis dengan desain kolase di contoh, buat gambar banner sendiri
+     (misalnya di Canva/Figma), simpan sebagai banner.png di repositori ini, lalu ganti baris <img> di bawah
+     dengan: <img src="./banner.png" width="100%" alt="Banner" /> -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,py,js,ts,html,css,react,nodejs,django,flask,go,cs,kafka,mysql,postgres,redis,linux,vscode,figma,ps,aws,firebase,nginx&perline=13" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=grpc,ps,go,kafka,mysql,postgres,redis,docker,git,github,js,ts,html,css,react,nodejs,django,flask,py,cs,graphql,mongodb,aws,firebase,nginx,linux,vscode,figma,kubernetes&perline=15" alt="Tech stack" />
 </p>
 
-Halo, saya **Muhammad Faizal Zain**, saat ini sedang menempuh studi S1 **Pendidikan Teknologi Informasi** di **Universitas Negeri Surabaya**. Saya seorang penggemar teknologi, developer, dan pendukung open source. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang olahraga, main musik, atau di depan meja sambil mengutak-atik hal baru.
+Saya **Nama Kamu**, saat ini sedang menempuh S1 **Computer Science** di **Nama Kampus**. Saya seorang tech enthusiast, desainer, dan open-source advocate. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang angkat beban di gym atau di depan meja sambil mengutak-atik hal baru.
 
-Ingin tahu lebih banyak tentang saya? Hubungi saya lewat tautan di bawah ini.
+Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di sini:
 
 <p>
   <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,7 +21,7 @@ Ingin tahu lebih banyak tentang saya? Hubungi saya lewat tautan di bawah ini.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&area=true&area_color=ff6ec7&hide_border=true&title_color=ffffff&custom_title=Grafik%20Kontribusi%20Nama%20Kamu" alt="Grafik kontribusi" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffffff&hide_border=true&title_color=ffffff" alt="Contribution Graph" />
 </p>
 
 <br/>
