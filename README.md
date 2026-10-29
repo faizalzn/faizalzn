@@ -19,7 +19,7 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffffff&hide_border=true&title_color=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizalzn&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffffff&hide_border=true&title_color=ffffff" alt="Contribution Graph" />
 </p>
 
 <br/>
