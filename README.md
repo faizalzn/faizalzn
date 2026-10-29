@@ -1,91 +1,90 @@
-<!-- 1. BANNER ANIMASI BERGERAK (HEADER) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5Z3p5&rid=giphy.gif" width="100%" alt="Faiz Banner Animation" />
+<!-- Ganti semua placeholder: USERNAME, Nama Kamu, link sosial media, dan nama repo -->
 
-  <br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,py,js,ts,html,css,react,nodejs,django,flask,go,cs,kafka,mysql,postgres,redis,linux,vscode,figma,ps,aws,firebase,nginx&perline=13" alt="Tech stack" />
+</p>
 
-  <!-- JUDUL MERAH PERSIS SEPERTI REFERENSI NIAMSKY -->
-  <h1 align="center">
-    <font color="#FF0000">Cybersecurity & Web Developer 💻</font>
-  </h1>
-  
-  <p align="center">
-    <b>Muhammad Faizal Zain (Faiz)</b> • IT Education @ UNESA
-  </p>
-</div>
+Halo, saya **Nama Kamu**, saat ini sedang menempuh studi S1 **Teknik Informatika** di **Nama Kampus**. Saya seorang penggemar teknologi, desainer, dan pendukung open source. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang olahraga, main musik, atau di depan meja sambil mengutak-atik hal baru.
+
+Ingin tahu lebih banyak tentang saya? Hubungi saya lewat tautan di bawah ini.
+
+<p>
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dev.to/USERNAME"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  <a href="https://domain-kamu.com"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&area=true&area_color=ff6ec7&hide_border=true&title_color=ffffff&custom_title=Grafik%20Kontribusi%20Nama%20Kamu" alt="Grafik kontribusi" />
+</p>
 
 <br/>
 
-<!-- 2. LENCANA STATUS (GAYA MERAH-HITAM) -->
-<div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20WEB%20DEV-FF0000?style=for-the-badge&labelColor=000000" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-FF0000?style=for-the-badge&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/LIVES-INDONESIA-FF0000?style=for-the-badge&labelColor=000000" alt="Lives" />
-</div>
+## 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,python,cs,django,flask,mysql,vscode,linux&perline=11" alt="Languages and Tools" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <b>Saya bergabung di organisasi ini:</b><br/><br/>
+      <!-- Ganti dengan logo organisasi kamu -->
+      <a href="https://github.com/ORGANISASI">
+        <img src="https://github.com/ORGANISASI.png" width="120" alt="Organisasi" />
+      </a>
+    </td>
+    <td align="center" width="60%">
+      <b>Hubungi saya:</b><br/><br/>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://twitter.com/USERNAME">
+              <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/USERNAME">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.youtube.com/@USERNAME">
+              <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://discord.com/users/ID_DISCORD">
+              <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- 3. LENCANA SOSIAL (TOMBOL HITAM) -->
-<div align="center">
-  <a href="https://github.com/faizalzn">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+## 📺 Video YouTube Terbaru
 
-  <a href="https://www.instagram.com/faizalzen_/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:faiz@goonesmile.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<!-- YOUTUBE:START -->
+- [Judul video terbaru 1](https://www.youtube.com/@USERNAME)
+- [Judul video terbaru 2](https://www.youtube.com/@USERNAME)
+<!-- YOUTUBE:END -->
 
-<hr/>
+<br/>
 
-<!-- 4. TENTANG SAYA -->
-### 🚀 About Me
-- 🔭 I’m currently focused on **Cybersecurity (Penetration Testing, OSINT)** and **Web Development**.
-- 🕸️ Exploring **Bash Scripting**, **Anaconda Python Environments**, and security tools.
-- 🎓 Studying IT Education at **UNESA**.
-- ♟️ When I'm not coding, you can find me playing chess, analyzing markets, or writing.
-- ☁️ Pronouns: He/Him.
+## 🏅 Proyek Open Source yang Terbuka untuk Kontribusi
 
-<hr/>
-
-<!-- 5. TECH STACK & TOOLS -->
-### 💻 Tech Stack & Tools
-
-#### 🛡️ Cyber Security & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
-
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</p>
-
-<hr/>
-
-<!-- 6. GITHUB STREAK STATS -->
-<div align="center">
-  <h3>🔥 GitHub Streak Stats</h3>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=faizalzn&theme=radical&hide_border=false" alt="Faiz's GitHub Streak" />
-</div>
-
-<hr/>
-
-<!-- 7. GITHUB CONTRIBUTION SNAKE -->
-<div align="center">
-  <h3>🐍 GitHub Contribution Snake</h3>
-  <br/>
-  <img src="https://raw.githubusercontent.com/faizalzn/faizalzn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
-</div>
+| 📁 Proyek | ⭐ Stars | 🍴 Forks | 🐛 Issues | 🔀 Pull Requests | 💻 Bahasa |
+| --- | --- | --- | --- | --- | --- |
+| [nama-repo-1](https://github.com/USERNAME/nama-repo-1) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-1?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-1?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-1?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-1?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-1?style=flat-square) |
+| [nama-repo-2](https://github.com/USERNAME/nama-repo-2) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-2?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-2?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-2?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-2?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-2?style=flat-square) |
+| [nama-repo-3](https://github.com/USERNAME/nama-repo-3) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-3?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-3?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-3?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-3?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-3?style=flat-square) |
