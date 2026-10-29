@@ -1,10 +1,8 @@
 <!-- Ganti semua placeholder: USERNAME, Nama Kamu, link sosial media, dan nama repo -->
 
-<!-- BANNER: untuk hasil yang sama persis dengan desain kolase di contoh, buat gambar banner sendiri
-     (misalnya di Canva/Figma), simpan sebagai banner.png di repositori ini, lalu ganti baris <img> di bawah
-     dengan: <img src="./banner.png" width="100%" alt="Banner" /> -->
+<!-- BANNER: upload file banner.png (satu folder dengan README ini) ke repositori profil kamu -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=grpc,ps,go,kafka,mysql,postgres,redis,docker,git,github,js,ts,html,css,react,nodejs,django,flask,py,cs,graphql,mongodb,aws,firebase,nginx,linux,vscode,figma,kubernetes&perline=15" alt="Tech stack" />
+  <img src="./banner.png" width="100%" alt="Banner ikon teknologi" />
 </p>
 
 Saya **Nama Kamu**, saat ini sedang menempuh S1 **Computer Science** di **Nama Kampus**. Saya seorang tech enthusiast, desainer, dan open-source advocate. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang angkat beban di gym atau di depan meja sambil mengutak-atik hal baru.
