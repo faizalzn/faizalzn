@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,py,js,ts,html,css,react,nodejs,django,flask,go,cs,kafka,mysql,postgres,redis,linux,vscode,figma,ps,aws,firebase,nginx&perline=13" alt="Tech stack" />
 </p>
 
-Halo, saya **Nama Kamu**, saat ini sedang menempuh studi S1 **Teknik Informatika** di **Nama Kampus**. Saya seorang penggemar teknologi, desainer, dan pendukung open source. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang olahraga, main musik, atau di depan meja sambil mengutak-atik hal baru.
+Halo, saya **Muhammad Faizal Zain**, saat ini sedang menempuh studi S1 **Pendidikan Teknologi Informasi** di **Universitas Negeri Surabaya**. Saya seorang penggemar teknologi, developer, dan pendukung open source. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang olahraga, main musik, atau di depan meja sambil mengutak-atik hal baru.
 
 Ingin tahu lebih banyak tentang saya? Hubungi saya lewat tautan di bawah ini.
 
