@@ -5,7 +5,7 @@
   <img src="./banner.png" width="100%" alt="Banner ikon teknologi" />
 </p>
 
-Saya **Nama Kamu**, saat ini sedang menempuh S1 **Computer Science** di **Nama Kampus**. Saya seorang tech enthusiast, desainer, dan open-source advocate. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang angkat beban di gym atau di depan meja sambil mengutak-atik hal baru.
+Saya **Muhammad Faizal Zain**, saat ini sedang menempuh S1 **Pendidikan Teknologi Informasi** di **Universitas Negeri Surabaya**. Saya seorang tech enthusiast, developer, dan open-source advocate. Saya selalu terbuka untuk berkolaborasi pada proyek dan ide-ide inovatif. Kalau sedang tidak ngoding, kamu bisa menemukan saya sedang angkat beban di gym atau di depan meja sambil mengutak-atik hal baru.
 
 Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di sini:
 
