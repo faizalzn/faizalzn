@@ -9,7 +9,7 @@ Saya **Nama Kamu**, saat ini sedang menempuh S1 **Computer Science** di **Nama K
 
 Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di sini:
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.instagram.com/USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -26,50 +26,14 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 
 ## 🛠️ Languages and Tools:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,python,cs,django,flask,mysql,vscode,linux&perline=11" alt="Languages and Tools" />
+<p align="center">
+  <img src="./assets/tools.svg" width="100%" alt="Languages and Tools: Frontend, Backend, Database &amp; Caching, Mobile &amp; Tools, Pentesting" />
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="40%">
-      <b>Saya bergabung di organisasi ini:</b><br/><br/>
-      <!-- Ganti dengan logo organisasi kamu -->
-      <a href="https://github.com/ORGANISASI">
-        <img src="https://github.com/ORGANISASI.png" width="120" alt="Organisasi" />
-      </a>
-    </td>
-    <td align="center" width="60%">
-      <b>Hubungi saya:</b><br/><br/>
-      <table>
-        <tr>
-          <td align="center">
-            <a href="https://twitter.com/USERNAME">
-              <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/USERNAME">
-              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.youtube.com/@USERNAME">
-              <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://discord.com/users/ID_DISCORD">
-              <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="200" src="./assets/lang-repo.svg" alt="Bahasa Teratas per Repositori" />
+  <img height="200" src="./assets/lang-commit.svg" alt="Bahasa Teratas per Commit" />
+</p>
 
 <br/>
 
