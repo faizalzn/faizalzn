@@ -19,7 +19,7 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizalzn&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffffff&hide_border=true&title_color=ffffff" alt="Contribution Graph" />
+  <img src="./assets/activity-year.svg" width="100%" alt="Grafik Kontribusi" />
 </p>
 
 <br/>
@@ -101,8 +101,8 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 <br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizalzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalzn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bahasa Paling Banyak Dipakai" />
+  <img height="190" src="./assets/stats.svg" alt="Statistik GitHub" />
+  <img height="190" src="./assets/languages.svg" alt="Bahasa Paling Banyak Dipakai" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizalzn&bg_color=0d1117&color=7ee7d0&line=7ee7d0&point=ffffff&hide_border=true&title_color=7ee7d0" alt="Grafik Aktivitas GitHub" />
+  <img src="./assets/activity-30d.svg" width="100%" alt="Aktivitas GitHub 30 Hari Terakhir" />
 </p>
 
 </details>
