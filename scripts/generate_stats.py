@@ -4,6 +4,8 @@
 Keluaran (folder assets/):
   stats.svg          kartu statistik + peringkat
   languages.svg      bahasa paling banyak dipakai (repo publik, bukan fork)
+  lang-repo.svg      donat: bahasa utama per repositori
+  lang-commit.svg    donat: bahasa utama per commit (12 bulan terakhir)
   activity-year.svg  grafik kontribusi 12 bulan terakhir (per minggu)
   activity-30d.svg   grafik aktivitas 30 hari terakhir (per hari)
 
@@ -37,6 +39,7 @@ query($login:String!){
       totalCount
       nodes{
         stargazerCount forkCount
+        primaryLanguage{ name color }
         languages(first:10, orderBy:{field:SIZE, direction:DESC}){
           edges{ size node{ name color } }
         }
@@ -47,6 +50,10 @@ query($login:String!){
     contributionsCollection{
       totalCommitContributions
       restrictedContributionsCount
+      commitContributionsByRepository(maxRepositories:100){
+        repository{ primaryLanguage{ name color } }
+        contributions{ totalCount }
+      }
       contributionCalendar{
         totalContributions
         weeks{ contributionDays{ date contributionCount } }
@@ -82,7 +89,21 @@ def summarize(user):
             item["size"] += edge["size"]
     cc = user["contributionsCollection"]
     days = [d for w in cc["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
+    # donat: jumlah repositori per bahasa utama, dan jumlah commit (12 bln) per bahasa utama repo
+    repo_langs, commit_langs = {}, {}
+    for repo in repos:
+        pl = repo.get("primaryLanguage")
+        if pl:
+            item = repo_langs.setdefault(pl["name"], {"size": 0, "color": pl["color"] or "#8b98b8"})
+            item["size"] += 1
+    for entry in cc["commitContributionsByRepository"]:
+        pl = entry["repository"].get("primaryLanguage")
+        if pl:
+            item = commit_langs.setdefault(pl["name"], {"size": 0, "color": pl["color"] or "#8b98b8"})
+            item["size"] += entry["contributions"]["totalCount"]
     return {
+        "repo_langs": repo_langs,
+        "commit_langs": commit_langs,
         "name": user["name"] or user["login"],
         "stars": sum(r["stargazerCount"] for r in repos),
         "forks": sum(r["forkCount"] for r in repos),
@@ -165,6 +186,35 @@ def languages_svg(s):
     return card(340, 215, body, "Bahasa Paling Banyak Dipakai")
 
 
+def donut_svg(langs, title):
+    """Kartu donat: legenda di kiri, donat di kanan (5 bahasa teratas + 'Lainnya')."""
+    ranked = sorted(langs.items(), key=lambda kv: -kv[1]["size"])
+    items = [(n, v["size"], v["color"]) for n, v in ranked[:5]]
+    other = sum(v["size"] for _, v in ranked[5:])
+    if other:
+        items.append(("Lainnya", other, "#8b98b8"))
+    total = sum(s for _, s, _ in items)
+    body = ""
+    if not total:
+        body += f'<text x="24" y="92" font-family="{FONT}" font-size="13" fill="{MUTED}">Belum ada data.</text>'
+        return card(400, 215, body, title)
+    for i, (n, size, color) in enumerate(items):
+        y = 70 + i * 23
+        body += (f'<rect x="24" y="{y-10}" width="12" height="12" rx="3" fill="{esc(color)}"/>'
+                 f'<text x="44" y="{y}" font-family="{FONT}" font-size="13" fill="{TEXT}">{esc(n)}</text>')
+    cx, cy, r, sw = 300, 122, 52, 24
+    circ = 2 * math.pi * r
+    offset = 0.0
+    for n, size, color in items:
+        length = circ * size / total
+        gap = 1.5 if len(items) > 1 else 0
+        body += (f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{esc(color)}" stroke-width="{sw}" '
+                 f'stroke-dasharray="{max(length-gap, 0.1):.2f} {circ:.2f}" stroke-dashoffset="{-offset:.2f}" '
+                 f'transform="rotate(-90 {cx} {cy})"/>')
+        offset += length
+    return card(400, 215, body, title)
+
+
 def nice_max(v):
     if v <= 4:
         return 4
@@ -244,6 +294,8 @@ def main():
     if "--placeholder" in sys.argv:
         write("stats.svg", placeholder_svg(470, 215, "Statistik GitHub"))
         write("languages.svg", placeholder_svg(340, 215, "Bahasa Paling Banyak Dipakai"))
+        write("lang-repo.svg", placeholder_svg(400, 215, "Bahasa Teratas per Repositori"))
+        write("lang-commit.svg", placeholder_svg(400, 215, "Bahasa Teratas per Commit"))
         write("activity-year.svg", placeholder_svg(820, 280, "Grafik Kontribusi"))
         write("activity-30d.svg", placeholder_svg(820, 280, "Aktivitas 30 Hari Terakhir"))
         return
@@ -254,6 +306,8 @@ def main():
     s = summarize(fetch(login, token))
     write("stats.svg", stats_svg(s))
     write("languages.svg", languages_svg(s))
+    write("lang-repo.svg", donut_svg(s["repo_langs"], "Bahasa Teratas per Repositori"))
+    write("lang-commit.svg", donut_svg(s["commit_langs"], "Bahasa Teratas per Commit (12 bln)"))
     write("activity-year.svg", activity_year_svg(s))
     write("activity-30d.svg", activity_30d_svg(s))
 
