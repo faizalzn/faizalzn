@@ -15,7 +15,7 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
   <a href="https://www.instagram.com/faizalzen_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://dev.to/USERNAME"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
   <a href="https://muhammadfaizalzain.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:muhammadfaizalzain04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="muhammadfaizalzain04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
