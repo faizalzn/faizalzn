@@ -73,10 +73,10 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 ## 🤝 Ayo Terhubung
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/USERNAME"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.instagram.com/USERNAME"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/muhammadfaizalzain"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://twitter.com/zenjoee"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.instagram.com/faizalzen_"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram" /></a>&nbsp;
   <a href="https://www.youtube.com/@USERNAME"><img src="https://skillicons.dev/icons?i=youtube" width="44" alt="YouTube" /></a>&nbsp;
   <a href="https://discord.com/users/ID_DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="44" alt="Discord" /></a>&nbsp;
-  <a href="mailto:email@kamu.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" /></a>
+  <a href="mailto:muhammadfaizalzain04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" /></a>
 </p>
