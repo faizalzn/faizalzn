@@ -37,25 +37,6 @@ Cari tahu lebih banyak tentang saya & jangan ragu untuk terhubung dengan saya di
 
 <br/>
 
-## 📺 Video YouTube Terbaru
-
-<!-- YOUTUBE:START -->
-- [Judul video terbaru 1](https://www.youtube.com/@USERNAME)
-- [Judul video terbaru 2](https://www.youtube.com/@USERNAME)
-<!-- YOUTUBE:END -->
-
-<br/>
-
-## 🏅 Proyek Open Source yang Terbuka untuk Kontribusi
-
-| 📁 Proyek | ⭐ Stars | 🍴 Forks | 🐛 Issues | 🔀 Pull Requests | 💻 Bahasa |
-| --- | --- | --- | --- | --- | --- |
-| [nama-repo-1](https://github.com/USERNAME/nama-repo-1) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-1?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-1?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-1?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-1?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-1?style=flat-square) |
-| [nama-repo-2](https://github.com/USERNAME/nama-repo-2) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-2?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-2?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-2?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-2?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-2?style=flat-square) |
-| [nama-repo-3](https://github.com/USERNAME/nama-repo-3) | ![Stars](https://img.shields.io/github/stars/USERNAME/nama-repo-3?style=flat-square) | ![Forks](https://img.shields.io/github/forks/USERNAME/nama-repo-3?style=flat-square) | ![Issues](https://img.shields.io/github/issues/USERNAME/nama-repo-3?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/USERNAME/nama-repo-3?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/USERNAME/nama-repo-3?style=flat-square) |
-
-<br/>
-
 <details>
 <summary><b>📊 GitHub Stats (Klik untuk Melihat)</b></summary>
 <br/>
